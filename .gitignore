@@ -1,6 +1,19 @@
+# Python
 __pycache__/
 *.pyc
+
+# Logs
 *.log
+
+# Virtual environments
 .env
+venv/
+.env/
+
+# Build artifacts
 dist/
 build/
+
+# IDEs
+.vscode/
+.idea/
